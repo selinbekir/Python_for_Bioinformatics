@@ -1,2 +1,2 @@
-# Transcript-Class-based-on-ensembl-genome-database
-creation of a transcript class with attributes of: transcript ID, Gene ID, Chromosome, Strand, Number of Exons; and with methods of: calculation of 5' URT length, 3' UTR length, Transcript length (sum of exon length). From this class, detecting the average 5' and 3' URT lengths on both + and - strands, detecting the ID of transcript with the longest 5' UTR and the longest 3' UTR.
+# BIO496
+Homework scripts for programming with Python for Biology Course
