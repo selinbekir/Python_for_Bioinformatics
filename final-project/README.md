@@ -8,4 +8,3 @@ Data from Openneuro:
 https://openneuro.org/datasets/ds000005/versions/00001
 Tom, S.M., Fox, C.R., Trepel, C., Poldrack, R.A. (2007). The neural basis of loss aversion in decision-making under risk. Science, 315(5811):515-8
 
-Although the code is working without format errors, the analysis unfortunately is not correct (no preprocessing, not the correct analysis for the design of the study)
